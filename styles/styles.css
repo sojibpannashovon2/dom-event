@@ -1,0 +1,23 @@
+#title {
+    text-align: center;
+    color: rgb(236, 125, 6);
+    border: 3px solid blueviolet;
+    padding: 5px;
+    background-color: bisque;
+}
+
+.btn-click {
+    /* display: grid;
+
+    align-content: center;
+    justify-content: center;
+    display: inline; */
+    padding: 30px;
+
+}
+
+.another-section {
+    border: 2px solid blueviolet;
+    margin-top: 200px;
+    padding: 100px;
+}
